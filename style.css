@@ -22,6 +22,15 @@ background-color: #fff;
  
 	margin-bottom: 91px;
 }
+.htext{
+  font-size: 1.8em;
+  color: rgba(255,255,255,.7) !important;
+}
+
+#mdiddlehds{
+  padding: 2rem 2rem 2rem 1rem; background-color: white;
+}
+
 
 
 .navbar-default {
@@ -38,13 +47,28 @@ background-color: #fff;
 
 }
 
+#dorps{
+  background-color: white;
+}
+
 
 a{
 	color: rgba(255,255,255,.9) !important;
+  text-decoration: none;
 }
 .nav.navbar-nav.navbar-right {
     margin-right: 6vw;
 }
+
+
+.navbar-brand {
+    padding-top: 25px;
+    font-size: 30px;
+}
+
+
+
+
 .space{
     color: #fff;
     margin-top: 154px;
@@ -77,6 +101,12 @@ color: #506690;
 }
 
 
+
+
+
+.middlefrm{
+  height: 5rem; box-shadow: none; border-radius: 0px;
+}
 
 
 .progress-bar {
@@ -293,6 +323,7 @@ color: #506690;
     color: #506690;
     font-size: 14px;
     border-radius: 2px;
+    margin-right: 45px;
 }
 
 .button9:hover {
@@ -320,6 +351,13 @@ color: #506690;
   color: #506690;
   border-radius: 2px;
 }
+
+
+#button11{
+  font-size: 25px;
+  border-left-color: white;border-radius: 0px;"
+}
+
 
 
 .top-a{
@@ -415,7 +453,7 @@ th {
 }
 
 .navbar .navbar-toggle .icon-bar {
-  background: #131313;
+  background: white;
 }
 
 .shrink .navbar {
@@ -430,6 +468,7 @@ th {
 
 .nav.navbar-nav.navbar-left {
     font-size: 1.6em;
+    padding-top: 10px;
 }
 
 .nav.navbar-nav.navbar-right {
@@ -439,6 +478,11 @@ th {
     text-decoration: none;
     background-color: transparent;
 }
+
+#drp{
+    background-color: white !important;
+}
+
 
 #skls {
     padding-left: 1em;
